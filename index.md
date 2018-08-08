@@ -19,8 +19,9 @@
     - [3.4.5 Notification View](#345-notification-view)
     - [3.4.6 Report View](#346-report-view)
     - [3.4.7 About View](#347-about-view)
- - [4. Detailed Design](#4-detailed-design)
-    * [4.1 Module Detailed Design](#41-module-detailed-design)
+ - [4. Technical Process](#4-technical-process)
+    * [4.1 Methods, Tools and Techniques](#41-methods-tools-techniques)
+    * [4.2 Software Documentation] (#42-software-documentation)
      
 # 1. Introduction
 
@@ -155,28 +156,17 @@ This design shows how the user interacts with the front end of the app (GUI), an
 |btnSources|Button|Brings user to Sources View with that credits all the third-party sources that were used to create the application <p><p>Within a table: label and arrow button</p></p>|→ Sources View|
 |btnTeam|Button|Brings user to Team View with details about the developer team <p><p>Within a table: label and arrow button</p></p>|→ Team View|
 
-# 4. Detailed Design
-## 4.1 Module Detailed Design
+# 4. Technical Process
+## 4.1 Methods, Tools and Techniques
 
-setUsername()
- 1. takes the user created string
- 2. new everytime the user re-enters the chat (temporary)
+Backend: Bluetooth 5.0 Low Energy (BLE) Mesh
+Languages: Swift, Java, C
+Repositories: GitHub
+Project Management: GitHub, Slack
 
-joinChat()
- 1. allows user to join chat using encryption key
- 2. automatically creates a Message object 
- 3. user now sees all the chats from all connecting nodes, within range 
- 
-leaveChat()
- 1. user now leaves the message loop
- 2. they no longer recieve updates from the chat
-
-receiveMessage()
- 1. application of chat interface
- 2. using the mesh network and BLE, this enables the chat to accept and view messages from other users (nodes)
-
-sendMessage()
- 1. application of chat interface 
- 2. using the mesh network and BLE, this enables the chat to send their message to all connected users (nodes)
+## 4.2 Software Documentation
+Requirements
+Analysis
+Design
 
 
