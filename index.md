@@ -1,7 +1,7 @@
 # Table of Contents
 - [1. Introduction](#1-introduction) 
-   * [1.1 Purpose](#11-purpose)
-   * [1.2 Scope](#12-scope)
+   * [1.1 Project Overview](#11-project-overview)
+   * [1.2 Project Deliverables](#12-project-deliverables)
    * [1.3 References](#13-references)
 - [2. Decomposition Description](#2-decomposition-description)
    * [2.1 Module Decomposition](#21-module-decomposition)
@@ -23,19 +23,30 @@
     * [4.1 Methods, Tools and Techniques](#41-methods-tools-techniques)
     * [4.2 Software Documentation] (#42-software-documentation)
      
-# 1. Introduction
+# 1. Introduction 
 
-It is assumed that all of the users devices are compatible with Bluetooth Low Energy (BLE) with core specification version 4.0 and higher. This includes all iPhones 4s and higher, iPads generation 3 and higher, and any android devices version 4.3 and higher. The application will be available for download on the Apple App store and Anroid Play Store for free.
+## 1.1 Projet Overview
 
-The application will only function within the limitations of the device’s own capabilities. It is assumed that all users using Shout! need to be within at least 200 feet of at least one other person in order to engage in conversation.   
+Shout! is a Bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same Bluetooth mesh.
 
-## 1.1 Purpose
-                  
-This design document will describe the architecture and system design of Shout!
+## 1.2 Project Deliverables
 
-## 1.2 Scope
+| # | Deliverable | Deadline | Adjusted Deadline | 
+| ----- | ---- | ----------- | ------- |
+|1|Requirements| May 22, 2018| May 29, 2018|
+|2|Requirements SQA| May 24, 2018| May 31, 2018|
+|3|Analysis| June 2, 2018| June 2, 2018|
+|4|Analysis SQA| June 19, 2018| June 4, 2018|
+|5|GUI Prototype| June 21, 2018| July 10, 2018|
+|6|GUI Prototype SQA| June 26, 2018| July 12, 2018|
+|7|SPMP| June 26, 2018| - |
+|8|SPMP SQA| June 28, 2018| - |
+|9|Design| July 3, 2018| July 15, 2018|
+|10|Design SQA| July 5 2018| July 17, 2018|
+|11|Implementation| August 7, 2018| August 7, 2018|
+|11|Implementation SQA| August 13, 2018| August 13, 2018|
+Note: Testing runs in parallel with all deliverables
 
-The intended audience for this document will be the developers. They will use this document as an aid in development and to see all of the software requirements for Shout!
 
 ## 1.3 References
 
