@@ -170,14 +170,14 @@ This design shows how the user interacts with the front end of the app (GUI), an
 # 4. Technical Process
 ## 4.1 Methods, Tools and Techniques
 
-Backend: Bluetooth 5.0 Low Energy (BLE) Mesh
-Languages: Swift, Java, C
-Repositories: GitHub
-Project Management: GitHub, Slack
+Backend: Bluetooth 5.0 Low Energy (BLE) Mesh<br/>
+Languages: Swift, Java, C<br/>
+Repositories: GitHub<br/>
+Project Management: GitHub, Slack<br/>
 
 ## 4.2 Software Documentation
-Requirements
-Analysis
+Requirements<br/>
+Analysis<br/>
 Design
 
 
