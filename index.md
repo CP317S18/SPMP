@@ -18,7 +18,7 @@
 
 ## 1.1 Project Overview
 
-Shout! is a Bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same Bluetooth mesh.
+Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same Bluetooth [mesh](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech).
 
 ## 1.2 Project Deliverables
 
@@ -40,31 +40,33 @@ Shout! is a Bluetooth low energy (BLE) mesh-based messaging application that is 
 *Note: Testing runs in parallel with all deliverables
 
 ## 1.3 Reference Materials
-SPMP Reference Template<br/>
-Planning Class Notes
+[SPMP Reference Template](https://cs.uwaterloo.ca/~apidduck/se362/Assignments/A2/spmp)<br/>
+[Planning Class Notes](https://bohr.wlu.ca/cp317/notes/17_planning.php)
 
 
 # 2. Project Organization
 ## 2.1 Organizational Structure
 Project deliverables will be worked on using a combination of members from the Android, iOS and Core team:
 
-Android: Andrew, Christian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak
-iOS: Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany
+<strong>Android:</strong> Andrew, Christian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak
+<strong>iOS:</strong> Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany
 Core: Adam, Alex, Benjamin, Farhan, Michael
 
 Within these teams, there is a further breakdown of subteams consisting of:
 User Experience, User Interface, Documentation, Development and Bluetooth Integration and Testing.
 
 ## 2.2 Project Responsibilities
-| Group Member(s) | Deliverable |
+
+| Group Members | Deliverable |
 | ---------------------- | --------- |
 |Adam, Alex, Andrew, Benjamin, Christian, Delina, Emily, Harry, Jared, Jessica, Malin, Michelle, Navreet, Pranav, Rumsha, Samani, Tiffany, Zakaria|Requirements|
 |Adam, Alex, Andrew, Benjamin, Delina, Emily, Greg, Jayanth, Tiffany|Analysis|
 |Jared, Jessica, Michelle, Navreet|GUI Prototype|
 |Michelle, Navreet|Software Project Management Plan (SPMP)|
 |Adam, Alex, Andrew, Benjamin, Christian, Cristian, Delina, Emily, Farhan, Greg, Jayanth, Jared, Jessica, Michael, Pranav, Samani, Tiffany, Yannick, Zakaria|Design|
-|Android: Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria</p>iOS: Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
+|<strong>Android:</strong> Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria</p><strong>iOS:</strong> Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
 |All Members will participate in SQA and Testing|Software Quality Assurance (SQA) and Testing|
+
 
 
 # 3. Managerial Process
@@ -80,14 +82,14 @@ Testing and SQA is to be completed as soon as a deliverable is deemed as “read
 # 4. Technical Process
 ## 4.1 Methods, Tools and Techniques
 
-Backend: Bluetooth 5.0 Low Energy (BLE) Mesh<br/>
-Languages: Swift, Java, C<br/>
-Repositories: GitHub<br/>
-Project Management: GitHub, Slack<br/>
+<strong>Backend:</strong> Bluetooth 5.0 Low Energy (BLE) Mesh<br/>
+<strong>Languages:</strong> Swift, Java, C<br/>
+<strong>Repositories:</strong> GitHub<br/>
+<strong>Project Management:</strong> GitHub, Slack<br/>
 
 ## 4.2 Software Documentation
 Requirements<br/>
-Analysis<br/>
-Design
+[Analysis](https://cp317s18.github.io/analysis/)<br/>
+[Design](https://cp317s18.github.io/design/)
 
 
