@@ -21,17 +21,18 @@
     - [3.4.7 About View](#347-about-view)
  - [4. Technical Process](#4-technical-process)
     * [4.1 Methods, Tools and Techniques](#41-methods-tools-techniques)
-    * [4.2 Software Documentation] (#42-software-documentation)
+    * [4.2 Software Documentation](#42-software-documentation)
+    
      
 # 1. Introduction 
 
-## 1.1 Projet Overview
+## 1.1 Project Overview
 
 Shout! is a Bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same Bluetooth mesh.
 
 ## 1.2 Project Deliverables
 
-| # | Deliverable | Deadline | Adjusted Deadline | 
+|no. | Deliverable | Deadline | Adjusted Deadline | 
 | ----- | ---- | ----------- | ------- |
 |1|Requirements| May 22, 2018| May 29, 2018|
 |2|Requirements SQA| May 24, 2018| May 31, 2018|
