@@ -36,8 +36,15 @@ Shout! is a Bluetooth low energy (BLE) mesh-based messaging application that is 
 |10|Design SQA| July 5 2018| July 17, 2018|
 |11|Implementation| August 7, 2018| August 7, 2018|
 |11|Implementation SQA| August 13, 2018| August 13, 2018|
-Note: Testing runs in parallel with all deliverables
 
+
+| no. | Deliverable | Deadline | Adjusted Deadline | 
+| ----- | ---- | ----------- | ------- |
+|1|Requirements|May 22, 2018|May 29, 2018|
+|2|Requirements SQA|May 24, 2018|May 31, 2018|
+|3|Analysis|June 2, 2018|June 2, 2018|
+
+*Note: Testing runs in parallel with all deliverables
 
 ## 1.3 Reference Materials
 SPMP Reference Template<br/>
