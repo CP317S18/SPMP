@@ -22,27 +22,20 @@ Shout! is a Bluetooth low energy (BLE) mesh-based messaging application that is 
 
 ## 1.2 Project Deliverables
 
-|no. | Deliverable | Deadline | Adjusted Deadline | 
-| ----- | ---- | ----------- | ------- |
-|1|Requirements| May 22, 2018| May 29, 2018|
-|2|Requirements SQA| May 24, 2018| May 31, 2018|
-|3|Analysis| June 2, 2018| June 2, 2018|
-|4|Analysis SQA| June 19, 2018| June 4, 2018|
-|5|GUI Prototype| June 21, 2018| July 10, 2018|
-|6|GUI Prototype SQA| June 26, 2018| July 12, 2018|
-|7|SPMP| June 26, 2018| - |
-|8|SPMP SQA| June 28, 2018| - |
-|9|Design| July 3, 2018| July 15, 2018|
-|10|Design SQA| July 5 2018| July 17, 2018|
-|11|Implementation| August 7, 2018| August 7, 2018|
-|11|Implementation SQA| August 13, 2018| August 13, 2018|
-
-
 | no. | Deliverable | Deadline | Adjusted Deadline | 
 | ----- | ---- | ----------- | ------- |
 |1|Requirements|May 22, 2018|May 29, 2018|
 |2|Requirements SQA|May 24, 2018|May 31, 2018|
 |3|Analysis|June 2, 2018|June 2, 2018|
+|4|Analysis SQA|June 4, 2018|June 4, 2018|
+|5|GUI Prototype|June 19, 2018|July 10, 2018|
+|6|GUI Prototype SQA|June 21, 2018|July 12, 2018|
+|7|SPMP|June 26, 2018| - |
+|8|SPMP SQA|June 28, 2018| - |
+|9|Design|July 3, 2018|July 15, 2018|
+|10|Design SQA|July 5 2018|July 17, 2018|
+|11|Implementation|August 7, 2018|August 7, 2018|
+|12|Implementation SQA|August 13, 2018|August 13, 2018|
 
 *Note: Testing runs in parallel with all deliverables
 
@@ -63,6 +56,15 @@ Within these teams, there is a further breakdown of subteams consisting of:
 User Experience, User Interface, Documentation, Development and Bluetooth Integration and Testing.
 
 ## 2.2 Project Responsibilities
+| Group Member(s) | Deliverable |
+| ---------------------- | --------- |
+|Adam, Alex, Andrew, Benjamin, Christian, Delina, Emily, Harry, Jared, Jessica, Malin, Michelle, Navreet, Pranav, Rumsha, Samani, Tiffany, Zakaria|Requirements|
+|Adam, Alex, Andrew, Benjamin, Delina, Emily, Greg, Jayanth, Tiffany|Analysis|
+|Jared, Jessica, Michelle, Navreet|GUI Prototype|
+|Michelle, Navreet|Software Project Management Plan (SPMP)|
+|Adam, Alex, Andrew, Benjamin, Christian, Cristian, Delina, Emily, Farhan, Greg, Jayanth, Jared, Jessica, Michael, Pranav, Samani, Tiffany, Yannick, Zakaria|Design|
+|Android: Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria</p>iOS: Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
+|All Members will participate in SQA and Testing|Software Quality Assurance (SQA) and Testing|
 
 
 # 3. Managerial Process
@@ -73,22 +75,6 @@ The main objective of this project is to develop an Android and iOS application 
 There will be 2 short progress meetings every Tuesday and Thursday after class. Working meetings for deliverables are to take place on a mutually agreed upon time depending on the organizational structure.
 All communication is to take place on Slack, in the appropriate team channels. All time will also be tracked using Google Sheets for documentation and GitHub for code.
 Testing and SQA is to be completed as soon as a deliverable is deemed as “ready”. This is to ensure that the team is on track, corrections are being made as mistakes are found and everything is moving along smoothly according to the requirements.
-
-| Field | Type | Description | Gesture | 
-| ----- | ---- | ----------- | ------- |
-|lblChat|Label|Describes purpose of application||
-|imgBluetooth|Image|Visualization of the Bluetooth symbol||
-|btnStart|Button|Allows entrance to application only after bluetooth has been enable. |→  Home View|
-
-| Field | Type | Description | Gesture | 
-| ----- | ---- | ----------- | ------- |
-|imgLogo|Image|Application logo||
-|lblNumber|Label|Dynamic number displaying the amount of reachable people from user current position||
-|lblNearby|Label|Describes the purpose of the number||
-|lblDisclaimers|Label|A disclaimer statement | → Terms of Service |
-|btnEnter|Button|Allows entrance to Chat View only after a username has been submitted |→ Chat View |
-|btnSettings|Button| Brings user to the Settings View where they can change preferences | → Setting View |
-|txtfieldUsername | Text Field | Required username input before entrance to Chat View This is how the user will be identified in the chat. Must be distinct and 15 characters in length| |
 
 
 # 4. Technical Process
