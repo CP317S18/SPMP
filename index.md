@@ -48,7 +48,7 @@ Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_L
 ## 2.1 Organizational Structure
 Project deliverables will be worked on using a combination of members from the Android, iOS and Core team:
 
-<strong>Android:</strong> Andrew, Cristian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak<br /> 
+<strong>Android:</strong> Andrew, Cristian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zakaria<br /> 
 <strong>iOS:</strong> Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany<br /> 
 <strong>Core:</strong> Adam, Alex, Benjamin, Farhan, Michael
 
