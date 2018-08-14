@@ -64,7 +64,7 @@ User Experience, User Interface, Documentation, Development and Bluetooth Integr
 |Jared, Jessica, Michelle, Navreet|GUI Prototype|
 |Michelle, Navreet|Software Project Management Plan (SPMP)|
 |Adam, Alex, Andrew, Benjamin, Christian, Cristian, Delina, Emily, Farhan, Greg, Jayanth, Jared, Jessica, Michael, Pranav, Samani, Tiffany, Yannick, Zakaria|Design|
-|<strong>Android:</strong> Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria</p><strong>iOS:</strong> Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
+|<strong>Android:</strong> Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria<strong>iOS:</strong> Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
 |All Members will participate in SQA and Testing|Software Quality Assurance (SQA) and Testing|
 
 
