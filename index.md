@@ -18,7 +18,7 @@
 
 ## 1.1 Project Overview
 
-Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same Bluetooth [mesh](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech).
+Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) mesh-based messaging application that is supported on Android and iOS. It allows users to talk with other users within a single messaging room as long as they are all connected to the same Bluetooth [mesh](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech).
 
 ## 1.2 Project Deliverables
 
@@ -37,7 +37,7 @@ Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_L
 |11|Implementation|August 7, 2018|August 7, 2018|
 |12|Implementation SQA|August 13, 2018|August 13, 2018|
 
-*Note: Testing runs in parallel with all deliverables
+* Note: Testing runs in parallel with all deliverables
 
 ## 1.3 Reference Materials
 [SPMP Reference Template](https://cs.uwaterloo.ca/~apidduck/se362/Assignments/A2/spmp)<br/>
@@ -48,7 +48,7 @@ Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_L
 ## 2.1 Organizational Structure
 Project deliverables will be worked on using a combination of members from the Android, iOS and Core team:
 
-<strong>Android:</strong> Andrew, Christian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak<br /> 
+<strong>Android:</strong> Andrew, Cristian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak<br /> 
 <strong>iOS:</strong> Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany<br /> 
 <strong>Core:</strong> Adam, Alex, Benjamin, Farhan, Michael
 
