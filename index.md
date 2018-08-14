@@ -2,15 +2,15 @@
 - [1. Introduction](#1-introduction) 
    * [1.1 Project Overview](#11-project-overview)
    * [1.2 Project Deliverables](#12-project-deliverables)
-   * [1.3 Reference Materials](#13-references)
+   * [1.3 Reference Materials](#13-reference-materials)
 - [2. Project Organization](#2-project-organization)
    * [2.1 Organizational Structure](#21-organizational-structure)  
-   * [2.2 Project Responsibilities](#21-project-responsibilities)
+   * [2.2 Project Responsibilities](#22-project-responsibilities)
 - [3. Managerial Process](#3-managerial-process)
-   * [3.1 Management Objectives and Priorities](#31-mgmt-objectives-priorities)
-   * [3.2 Monitoring and Controlling Mechanisms](#32-monitor-control)
+   * [3.1 Management Objectives and Priorities](#31-management-objectives-and-priorities)
+   * [3.2 Monitoring and Controlling Mechanisms](#32-monitoring-and-controlling-mechanisms)
  - [4. Technical Process](#4-technical-process)
-    * [4.1 Methods, Tools and Techniques](#41-methods-tools-techniques)
+    * [4.1 Methods, Tools and Techniques](#41-methods-tools-and-techniques)
     * [4.2 Software Documentation](#42-software-documentation)
     
      
@@ -48,9 +48,9 @@ Shout! is a Bluetooth low energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_L
 ## 2.1 Organizational Structure
 Project deliverables will be worked on using a combination of members from the Android, iOS and Core team:
 
-<strong>Android:</strong> Andrew, Christian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak
-<strong>iOS:</strong> Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany
-Core: Adam, Alex, Benjamin, Farhan, Michael
+<strong>Android:</strong> Andrew, Christian, Duncan, Emily, Jared, Jayanth, Navreet, Pranav, Rumsha, Samani, Yannick, Zak<br /> 
+<strong>iOS:</strong> Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany<br /> 
+<strong>Core:</strong> Adam, Alex, Benjamin, Farhan, Michael
 
 Within these teams, there is a further breakdown of subteams consisting of:
 User Experience, User Interface, Documentation, Development and Bluetooth Integration and Testing.
@@ -58,13 +58,13 @@ User Experience, User Interface, Documentation, Development and Bluetooth Integr
 ## 2.2 Project Responsibilities
 
 | Group Members | Deliverable |
-| ---------------------- | --------- |
+| -------------------- | ----------- |
 |Adam, Alex, Andrew, Benjamin, Christian, Delina, Emily, Harry, Jared, Jessica, Malin, Michelle, Navreet, Pranav, Rumsha, Samani, Tiffany, Zakaria|Requirements|
 |Adam, Alex, Andrew, Benjamin, Delina, Emily, Greg, Jayanth, Tiffany|Analysis|
 |Jared, Jessica, Michelle, Navreet|GUI Prototype|
 |Michelle, Navreet|Software Project Management Plan (SPMP)|
 |Adam, Alex, Andrew, Benjamin, Christian, Cristian, Delina, Emily, Farhan, Greg, Jayanth, Jared, Jessica, Michael, Pranav, Samani, Tiffany, Yannick, Zakaria|Design|
-|<strong>Android:</strong> Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria<strong>iOS:</strong> Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
+|<strong>Android:</strong> Andrew, Alex, Benjamin, Cristian, Duncan, Emily, Farhan, Jared, Jayanth, Rumsha, Pranav, Yannick, Zakaria <br/> <strong>iOS:</strong> Adam, Christian, Delina, Greg, Harry, Jessica, Malin, Michelle, Ranusha, Tiffany|Implementation|
 |All Members will participate in SQA and Testing|Software Quality Assurance (SQA) and Testing|
 
 
@@ -85,7 +85,7 @@ Testing and SQA is to be completed as soon as a deliverable is deemed as “read
 <strong>Backend:</strong> Bluetooth 5.0 Low Energy (BLE) Mesh<br/>
 <strong>Languages:</strong> Swift, Java, C<br/>
 <strong>Repositories:</strong> GitHub<br/>
-<strong>Project Management:</strong> GitHub, Slack<br/>
+<strong>Project Management:</strong> GitHub, Google Sheets, Slack<br/>
 
 ## 4.2 Software Documentation
 Requirements<br/>
