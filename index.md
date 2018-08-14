@@ -89,7 +89,7 @@ Testing and SQA is to be completed as soon as a deliverable is deemed as ready. 
 <strong>Project Management:</strong> GitHub, Google Sheets, Slack<br/>
 
 ## 4.2 Software Documentation
-Requirements<br/>
+[Requirements](https://github.com/CP317S18/Requirements/blob/master/README.md)<br/>
 [Analysis](https://cp317s18.github.io/analysis/)<br/>
 [Design](https://cp317s18.github.io/design/)
 
