@@ -18,7 +18,7 @@
 
 ## 1.1 Project Overview
 
-Shout! is a Bluetooth Low Energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) mesh-based messaging application that is supported on Android and iOS. It allows users to talk with other users within a single messaging room as long as they are all connected to the same [Bluetooh Mesh](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech).
+Shout! is a Bluetooth Low Energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) mesh-based messaging application that is supported on Android and iOS. It allows users to talk with other users within a single messaging room as long as they are all connected to the same [Bluetooth Mesh](https://www.bluetooth.com/bluetooth-technology/topology-options/le-mesh/mesh-tech).
 
 ## 1.2 Project Deliverables
 
@@ -71,7 +71,7 @@ User Experience, User Interface, Documentation, Development and Bluetooth Integr
 
 # 3. Managerial Process
 ## 3.1 Management Objectives and Priorities
-The main objective of this project is to develop an Android and iOS application that uses Bluetooth and Location Services to chat with other users who are also included in the same Bluetooth mesh. By the end of term (August 14, 2018), all project deliverables should be complete, as well as a first draft working version of our application. Having consistent, informative and easy-to-read documentation and smooth project flow is a top priority for this project. Our application relies on our resources and time as there is no budget to this project.
+The main objective of this project is to develop an Android and iOS application that uses Bluetooth and Location Services to chat with other users who are also included in the same Bluetooth mesh. By the end of term (August 14, 2018), our goal is to have all project deliverables complete, as well as a working version of our application. Having consistent, informative and easy-to-read documentation and smooth project flow is a top priority for this project. The completion of our deliverables simply relies on our resources and time as there is no budget to this project.
 
 ## 3.2 Monitoring and Controlling Mechanisms 
 There will be two short progress meetings every Tuesday and Thursday after class. Working meetings for deliverables are to take place on a mutually agreed upon time depending on the organizational structure.
