@@ -85,7 +85,7 @@ Testing and SQA is to be completed as soon as a deliverable is deemed as ready. 
 <strong>Backend:</strong> Bluetooth 5.0 Low Energy (BLE) Mesh<br/>
 <strong>Languages:</strong> Swift, Java, Objective-C<br/>
 <strong>Repositories:</strong> GitHub<br/>
-<strong>GUI Prototype Tool:</strong> Figma
+<strong>GUI Prototype Tool:</strong> Figma<br/>
 <strong>Project Management:</strong> GitHub, Google Sheets, Slack<br/>
 
 ## 4.2 Software Documentation
