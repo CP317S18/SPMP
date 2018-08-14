@@ -92,5 +92,6 @@ Testing and SQA is to be completed as soon as a deliverable is deemed as ready. 
 [Requirements](https://github.com/CP317S18/Requirements/blob/master/README.md)<br/>
 [Analysis](https://cp317s18.github.io/analysis/)<br/>
 [Design](https://cp317s18.github.io/design/)
-
+[SQA](https://docs.google.com/spreadsheets/d/1Mxeb-O8q5lSGEQVzEIIoYGkT9QRoxtuHq5hOoGGWJCI/edit?usp=sharing)
+[Testing](https://docs.google.com/spreadsheets/d/1eq5DVbJMHYR0Q-mCH5XosW4niXJF-HhbbpWOfbO9VW4/edit?usp=sharing)
 
