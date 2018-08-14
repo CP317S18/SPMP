@@ -29,13 +29,13 @@ Shout! is a Bluetooth Low Energy [BLE](https://en.wikipedia.org/wiki/Bluetooth_L
 |3|Analysis|June 2, 2018|June 2, 2018|
 |4|Analysis SQA|June 4, 2018|June 4, 2018|
 |5|GUI Prototype|June 19, 2018|July 10, 2018|
-|6|GUI Prototype SQA|June 21, 2018|July 12, 2018|
+|6|GUI Prototype SQA|June 21, 2018|July 15, 2018|
 |7|SPMP|June 26, 2018| - |
 |8|SPMP SQA|June 28, 2018| - |
 |9|Design|July 3, 2018|July 15, 2018|
 |10|Design SQA|July 5 2018|July 17, 2018|
-|11|Implementation|August 7, 2018|August 7, 2018|
-|12|Implementation SQA|August 13, 2018|August 13, 2018|
+|11|Implementation|August 7, 2018| - |
+|12|Implementation SQA|August 13, 2018| - |
 
 * Note: Testing runs in parallel with all deliverables
 
